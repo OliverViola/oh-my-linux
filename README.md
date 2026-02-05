@@ -53,3 +53,6 @@ ln -s ~/.tmux/.tmux.conf ~/.tmux.conf
 
 ### Neovim
 - `~/.config/nvim` -> symlink to `nvim/`
+=======
+## requirements
+- neovim>0.8.0
